@@ -28,7 +28,7 @@ body {
 
 }
 
-.center-main-page-elem {
+.center-elem {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -152,7 +152,7 @@ li >  input[type="text"] {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#center-elem__completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
